@@ -1,6 +1,6 @@
 from aiogram import Dispatcher, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
-from ..misc import db
+##from ..misc import db
 
 buttons_registration = ["Регистрация"]
 
